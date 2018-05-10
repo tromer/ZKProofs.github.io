@@ -1,10 +1,3 @@
-# Science!
-
-![](/images/underconstruction/HeHeartlandPark5787imagesConstruction1.gif)
-[![](/images/underconstruction/ArArea51Station9771rulersconstructionconstruction_wide.gif)](https://textfiles.com/underconstruction/)
-[![](/images/underconstruction/ArArea51Shadowlands2297ST-underconstruction_anm.gif)](https://en.wikipedia.org/wiki/History_of_cryptography#Modern_cryptography)
-![](https://i.imgur.com/mJTyg0T.gif)
-
 ## What is a zero-knowledge proof?
 
 - [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
@@ -86,7 +79,6 @@
   - [Rust implementation over BLS12-381 using bellman](https://github.com/zcash-hackworks/sapling-crypto/tree/master/src/circuit/sprout)
 - [ANONIZE [HMP15]](https://eprint.iacr.org/2015/681.pdf)
   - [Mobile applications (closed-source)](https://anonize.org/)
-- [[KM18]](https://eprint.iacr.org/2018/176)
 - [Zcash Sapling](https://github.com/zcash/zips/blob/master/protocol/sapling.pdf)
   - [Rust implementation over BLS12-381 using bellman](https://github.com/zcash-hackworks/sapling-crypto)
 
@@ -100,8 +92,8 @@
 
 Stay tuned! 😁
 
-## I'd like to add another proving system / write a short explainer / remove those awful 90's images
+## Improve this page
 
-You can propose an edit to this page [here](https://github.com/ZKProofs/ZKProofs.github.io/edit/master/index.md)!
+Additions, corrections and other suggestions are welcome! You can propose an edit to this page [here](https://github.com/ZKProofs/ZKProofs.github.io/edit/master/index.md). (Note that after making your edits, there are several confirmations to click through in order to create the "pull request" in the Git repository underlying this page.)
 
 For more broad changes, you can make a pull request [here](https://github.com/ZKProofs/ZKProofs.github.io)!
